@@ -1,37 +1,121 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tquadrivium/AThematicGuidetoAnalyticPhilosophy/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## AP017：分析哲学专题教程
 
-### Markdown
+本次读书会所使用的主要文本是费多益老师主编的《分析哲学专题教程》一书。本书以问题为线索展开，选取国际上近30年聚焦最多、争论最激烈的话题进行呈现，其内容涵盖真、意义、经验、因果性、知识与价值、心身问题、同一性、行动的理由、道德抉择等永恒而常新的哲学命题。本书并不追求面面俱到，而是凸显鲜明的问题意识和论证特色，注重前沿性、趋向性、对话性，期望能与通行的以史（或者以流派，或者以人物）为线索的教材形成互补。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[[国内Gitee页面]](https://tquadrivium.gitee.io/athematicguidetoanalyticphilosophy)
 
-```markdown
-Syntax highlighted code block
+[[GitHub页面]](https://tquadrivium.github.io/AThematicGuidetoAnalyticPhilosophy/)
 
-# Header 1
-## Header 2
-### Header 3
+关注公众微信号「三艺四术」，获取更多读书会信息。
 
-- Bulleted
-- List
+![](img/qrcode.jpg)
 
-1. Numbered
-2. List
+### 1.课程大纲
 
-**Bold** and _Italic_ and `Code` text
+- 上篇 论题考查：趋向、纷争与焦点
 
-[Link](url) and ![Image](src)
-```
+  0. 导论如何理解分析哲学的“分析”？
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  1. 第一章“是真的”是否是一个真正的谓词？
 
-### Jekyll Themes
+  2. 第二章因果解释是完备的吗？
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tquadrivium/AThematicGuidetoAnalyticPhilosophy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  3. 第三章意义与指称
 
-### Support or Contact
+  4. 第四章解释何以可能？
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  5. 第五章概念空间和自然空间的分裂与勾连
+
+  6. 第六章经验的认识论意义
+
+  7. 第七章现象证据与事实证据
+  8. 八章自然化认识论：蒯因、西蒙和实用主义的前景
+
+  9. 第九章知识、确证与盖梯尔难题
+
+  10. 第十章从可靠主义到德性知识论
+
+  11. 第一章知识与价值
+
+  12. 第十二章心身问题
+
+  13. 第十三章可设想性论证
+
+  14. 第十四章忒修斯之船与跨时间同一性
+
+  15. 第十五章凯撒难题与跨范畴同一性
+
+  16. 第十六章为什么需要道德？
+
+- 下篇 实战习练：争议、对话与交锋
+
+  - 第1组
+    - 老师上课不应该点名
+    - 老师上课应该点名
+  - 第2组
+    - 反对大学招收特长生
+    - 大学可以因为特长而特招
+  - 第3组
+    - 第一学历歧视是不合理的
+    - 第一学历歧视是合理的
+  - 第4组
+    - 导师不应当利用关系帮助他眼中的优秀学生发表论文
+    - 导师可以利用关系帮助他眼中的优秀学生发表论文
+    - 为什么导师不应该利用人情关系帮助学生发表论文？
+  - 第5组
+    - 对“我思故我在”的辩护
+    - 对“我思故我在”的反驳
+  - 第6组
+    - 伊壁鸠鲁论死亡：一个辩护
+    - 伊壁鸠鲁论死亡：一个反驳
+    - 伊壁鸠鲁论死亡的重构
+  - 第7组
+    - 自杀在道德上是可接受的
+    - 自杀本身是不道德的
+
+### 2.关于读书会
+
+读书会由各个高校的哲学在读研究生共同组建（主要是分析哲学方向），最初由Hao ZHAN发起。
+
+读书会公众号：三艺四术
+
+读书会网站地址：[sanyisishu.com](sanyisishu.com)
+
+读书会bilibili页面：https://space.bilibili.com/8391706
+
+### 4.学习形式
+
+采用线上学习的形式（微信群+飞书），每周阅读《分析哲学专题教程》的一章内容。每周先由领读人梳理章节内容（30-40分钟），然后大家对阅读时所遇到的问题和难点进行讨论（40-80分钟）
+
+每次读书会的内容会以文本和视频的形式发布在该项目中，方便没能参与到讨论中的朋友观看。
+
+### 5.参与方法
+
+（1）进入链接，填写页面中的表格，加入读书会
+
+https://sanyisishu.com/2020/12/14/ap017%ef%bc%9a%e5%88%86%e6%9e%90%e5%93%b2%e5%ad%a6%e4%b8%93%e9%a2%98%e6%95%99%e7%a8%8b/
+
+（2）发送邮件
+
+将基本情况（如学校、专业方向、年级）和加入读书会的理由（100字以内）发送到 haozhan1993@gmail.com，邮件题目为：姓名+《分析哲学专题教程》读书会
+
+读书会预计12月下旬开展。
+
+请注意：
+
+**1.正式报名者尽量不缺席； 2.读书会不是领读人一个人发言，需要有交流**
+
+
+
+### 6.参与成员
+
+该项目创建于2020/12/14，距今已开展1期。
+
+- 第一期
+
+负责人	：	[Hao ZHAN](https://github.com/zhanhao93)
+
+项目成员：	
+
